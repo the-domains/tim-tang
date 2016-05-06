@@ -1,0 +1,28 @@
+name: Tim Tang
+favicon: null
+layout_spectrum: 0.6584738423116505
+typography_spectrum: 0.26431351574137807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7399422151502222
+  lightness: 0.9961705366149545
+  saturation: 0.14944643224589527
+  rhythmicContrast: 0.759848800720647
+purpose: []
